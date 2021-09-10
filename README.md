@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 Checkout my portfolio and resume at [www.andrewgrey.dev](www.andrewgrey.dev)
+- 👨‍💻 Checkout my portfolio and resume at [andrewgrey.dev](https://www.andrewgrey.dev)
 
 - 📫 Contact me via LinkedIn Direct Message
 
