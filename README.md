@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrew Grey</h1>
 <h3 align="center">A Site Reliability Engineer from Madison, WI</h3>
 
-- 🌱 I’m currently learning **TypeScript, studying for AWS SA Exam**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [andrewgreyit@gmail.com](andrewgreyit@gmail.com)
+- 👨‍💻 All of my projects are available at [andrewgrey.dev](www.andrewgrey.dev)
 
-- 📫 How to reach me **andrewgreyit@gmail.com**
+- 📫 Contact me via LinkedIn Direct Message
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
