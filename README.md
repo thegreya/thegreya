@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Grey</h1>
 <h3 align="center">A Site Reliability Engineer from Madison, WI</h3>
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 👨‍💻 Checkout my portfolio and resume at [andrewgrey.dev](https://www.andrewgrey.dev)
 
 - 📫 Contact me via LinkedIn Direct Message
